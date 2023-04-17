@@ -80,8 +80,3 @@ close.addEventListener("click", function () {
   aside.classList.remove("on");
   aside.querySelector("video").pause();
 });
-
-close.addEventListener("click", function () {
-  aside.classList.remove("on");
-  aside.querySelector("video").pause();
-});
